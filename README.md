@@ -1,5 +1,5 @@
 
-![logo](https://github.com/MHMODS45/MHMODS45/blob/main/Githubbanner.png)
+![logo](https://telegra.ph/file/e9c509add5d2ae6103936.jpg)
 
 <h1 align="center">Hi 👋, I'm CH HASEEB 😎</h1>
 <h3 align="center">A passionate YouTuber From Pakistan</h3>
