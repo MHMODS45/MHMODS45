@@ -22,6 +22,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmods45&show_icons=true&locale=en" alt="mhmods45" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chhaseeb47&show_icons=true&locale=en" alt="chhaseeb47" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmods45&" alt="mhmods45" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chhaseeb47&" alt="chhaseeb47" /></p>
