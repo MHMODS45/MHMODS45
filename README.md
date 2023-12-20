@@ -22,6 +22,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chhaseeb47&show_icons=true&locale=en" alt="chhaseeb47" /></p>
+<br>
+
+
+<p align="center">
+  <a href="https://github.com/chhaseeb47"> <img  alt="chhaseeb47's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/chhaseeb47?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chhaseeb47&" alt="chhaseeb47" /></p>
